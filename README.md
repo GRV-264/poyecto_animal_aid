@@ -5,7 +5,6 @@ Animal Aid es una aplicación web interactiva que utiliza la **API de Google Map
 ## 🚀 Características  
 - 🌍 **Mapa interactivo** con Google Maps  
 - 📍 **Marcadores dinámicos** para distintos tipos de ubicaciones  
-- 🔍 **Búsqueda y filtrado** de lugares según categoría  
 - 🎨 **Personalización del mapa** con la API de estilos y colores de Google Maps  
 - 📡 **Obtención de coordenadas** en tiempo real mediante la API de geolocalización  
 
