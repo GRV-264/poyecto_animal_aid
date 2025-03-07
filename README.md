@@ -21,6 +21,8 @@ Animal Aid es una aplicación web interactiva que utiliza la **API de Google Map
 ## 🌱 Rama de Desarrollo  
 📌 El códico del proyecto se encuentra actualmente en la rama **dev**.  
 
+### 🖼️ Demostración de la App
+
 ![Animal Aid](https://i.imgur.com/BjUrM6G.png)
 
 
