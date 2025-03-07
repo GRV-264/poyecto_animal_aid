@@ -18,5 +18,5 @@ Animal Aid es una aplicación web interactiva que utiliza la **API de Google Map
   - API de coordenadas  
   - API de personalización de colores de mapas  
 
-![Animal Aid](assets/img/Animal_Aid_Captura.png)
+![Animal Aid](public/img/Animal_Aid_Captura.png)
 
